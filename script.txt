@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Variables
+source_dir="/home/kais/Desktop/Fursa_Files/new_dir1"
+destination_dir="/home/kais/Desktop/Fursa_Files/new_dir2"
+backup_prefix="backup_$(date +%Y-%m-%d_%H-%M-%S)"
+
+# Check if source directory exists
+if [ ! -d "$source_dir" ]; then
+  echo "Source directory not found. Exiting."
+  exit 1
+fi
+
+# Check if backup directory exists; if not, create it
+if [ ! -d "$destination_dir" ]; then
+  echo "Creating backup directory: $destination_dir"
+  mkdir -p "$destination_dir"
+fi
+
+# Copy files from source to destination with timestamped backup names
+for file in "$source_dir"/*; do
+  if [ -f "$file" ]; then
+    cp "$file" "$destination_dir"/"$backup_prefix"_"$(basename "$file")"
+    echo "Copied $(basename "$file") to $destination_dir"
+  fi
+done
+
+echo "Backup completed successfully!"
