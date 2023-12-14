@@ -46,6 +46,41 @@ The cal command is a simple calendar utility in Linux that displays a calendar f
 ![ps_df_cal](https://github.com/AhmadKais/Linux_skills/blob/main/ps_df_cal.png)
 
 # Module 2:
+![new_files_dir](https://github.com/AhmadKais/Linux_skills/blob/main/new_files_dir.png)
+
+![nano](https://github.com/AhmadKais/Linux_skills/blob/main/nano.png)
+
+![file manipulation](https://github.com/AhmadKais/Linux_skills/blob/main/file%20manipulation.png)
+
+![cat_sp_append](https://github.com/AhmadKais/Linux_skills/blob/main/cat_cp_append_replace.png)
+
+![delete_file_dir](https://github.com/AhmadKais/Linux_skills/blob/main/delete_file_dir.png)
+
+# Module 3:
+
+![user_create](https://github.com/AhmadKais/Linux_skills/blob/main/user_create.png)
+
+![permissions](https://github.com/AhmadKais/Linux_skills/blob/main/permissions.png)
+
+# Module 4:
+
+![ps](https://github.com/AhmadKais/Linux_skills/blob/main/ps%20aux.png)
+
+![top](https://github.com/AhmadKais/Linux_skills/blob/main/top.png)
+
+![htop](https://github.com/AhmadKais/Linux_skills/blob/main/htop.png)
+
+![neofetch](https://github.com/AhmadKais/Linux_skills/blob/main/neofetch.png)
+
+![killing_fire_fox](https://github.com/AhmadKais/Linux_skills/blob/main/killing%20firefox.png)
+
+![bringing_process_to_fg](https://github.com/AhmadKais/Linux_skills/blob/main/bringing%20process%20to%20front.png)
+
+# Module 5:
+
+
+
+
 
 
 
