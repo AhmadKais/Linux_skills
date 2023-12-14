@@ -82,6 +82,9 @@ The cal command is a simple calendar utility in Linux that displays a calendar f
 ![sudo update upgrade](https://github.com/AhmadKais/Linux_skills/blob/main/sudo%20upgrade%20update.png)
 ![checking downloaded packages](https://github.com/AhmadKais/Linux_skills/blob/main/checking%20downloaded%20package.png)
 
+before we continue i suggest you watch this linux bash tutorial playlist : 
+https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w
+
 # Module 6 : 
 ![script](https://github.com/AhmadKais/Linux_skills/blob/main/script%20for%20backups.png)
 ![script try](https://github.com/AhmadKais/Linux_skills/blob/main/script%20try.png)
