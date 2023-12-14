@@ -77,6 +77,19 @@ The cal command is a simple calendar utility in Linux that displays a calendar f
 ![bringing_process_to_fg](https://github.com/AhmadKais/Linux_skills/blob/main/bringing%20process%20to%20front.png)
 
 # Module 5:
+![searching valgrind](https://github.com/AhmadKais/Linux_skills/blob/main/downloading%20packeges%20valgrind.png)
+![downloading valgrind](https://github.com/AhmadKais/Linux_skills/blob/main/downloading%20valgrind.png)
+![sudo update upgrade](https://github.com/AhmadKais/Linux_skills/blob/main/sudo%20upgrade%20update.png)
+![checking downloaded packages](https://github.com/AhmadKais/Linux_skills/blob/main/checking%20downloaded%20package.png)
+
+# Module 6 : 
+![script](https://github.com/AhmadKais/Linux_skills/blob/main/script%20for%20backups.png)
+![script try](https://github.com/AhmadKais/Linux_skills/blob/main/script%20try.png)
+![script demo](https://github.com/AhmadKais/Linux_skills/blob/main/script%20demo.png)
+
+# Module 7 :
+
+
 
 
 
