@@ -1,6 +1,6 @@
 # Linux_skills
 
-#Module 1 installing POP_OS 
+# Module 1 installing POP_OS 
 I have Downloaded pop!_os linux distribution ,since its based of ubuntu i dont see any problem , i tried installing ubuntu about a month ago andfailed and then i tried downloadeing Debian but found it more complicated , then found out that pop!_os is a begginer friendly distro.
 the downloading steps are like that : 
 first you download the distro on a USB flash drive .
