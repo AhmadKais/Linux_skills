@@ -129,6 +129,39 @@ running the script for the second time
 ![script demo](https://github.com/AhmadKais/Linux_skills/blob/main/script%20demo.png)
 
 # Module 7 :
+the script of module 7 : 
+# System Health Check Script
+
+This Bash script (`module7.sh`) performs a comprehensive health check on a system, logging various aspects of system status and potential issues.
+
+### Purpose
+- **Health Checks**: The script covers essential system health checks including service status, disk usage, file system status, process information, failed SSH login attempts, and open ports.
+- **Logging**: It logs the results of these checks into a specified log file (`system_health_check_log.txt`) along with timestamps.
+
+### Usage
+1. **Run the Script**: Execute the script in a terminal: `./module7.sh`.
+2. **Log File**: The script generates a log file named `system_health_check_log.txt` to store the health check results.
+
+### Script Breakdown
+- **Log File Initialization**: Defines the log file to store script activities.
+- **Clear Old Log Information**: Clears old log information by truncating the log file.
+- **Logging Function (`log()`)**: A function to log output with a timestamp to the specified log file.
+- **Health Check Functions**: Separate functions to perform various health checks.
+- **Main Function (`run_health_checks`)**: Executes all health check functions and logs any errors encountered during execution.
+
+### How to Use
+1. **Save Script**: Save the script file (`module7.sh`) to your system.
+2. **Make Executable**: Use `chmod +x module7.sh` to make the script executable.
+3. **Run Script**: Execute the script using `./module7.sh` in a terminal.
+
+### Example Output
+- The script generates a log file with detailed information about the system's health status. Sample output might include service statuses, disk usage warnings, process information, failed login attempts, and open ports.
+
+### Note
+- Customize the script or add additional checks as per your system's requirements.
+
+
+
 an example of the output that the module 7 health system check is showing after running 
 ![script module 7 run](https://github.com/AhmadKais/Linux_skills/blob/main/module7%20script%20run.png)
 
