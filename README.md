@@ -116,7 +116,8 @@ if [ ! -d "$source_dir" ]; then: This line checks if the source directory specif
 
 if [ ! -d "$destination_dir" ]; then: This part checks if the destination directory specified by destination_dir variable (/home/kais/Desktop/Fursa_Files/new_dir2) exists. If it doesn't exist, it creates the directory using mkdir -p.
 for file in "$source_dir"/*; do: This loop iterates through each file in the source directory.
-    if [ -f "$file" ]; then: Inside the loop, this checks if the current item ($file) is a regular file (-f). If it is, the script copies the file from the source directory to the destination directory, renaming it with the timestamped prefix using cp.
+
+if [ -f "$file" ]; then: Inside the loop, this checks if the current item ($file) is a regular file (-f). If it is, the script copies the file from the source directory to the destination directory, renaming it with the timestamped prefix using cp.
     echo "Copied $(basename "$file") to $destination_dir": Displays a message indicating which file was copied.
 ![script](https://github.com/AhmadKais/Linux_skills/blob/main/script%20for%20backups.png)
 
@@ -128,6 +129,13 @@ running the script for the second time
 ![script demo](https://github.com/AhmadKais/Linux_skills/blob/main/script%20demo.png)
 
 # Module 7 :
+an example of the output that the module 7 health system check is showing after running 
+![script module 7 run](https://github.com/AhmadKais/Linux_skills/blob/main/module7%20script%20run.png)
+
+![entering the crontab command ](https://github.com/AhmadKais/Linux_skills/blob/main/using%20crontab%20to%20schedule.png)
+
+added a new scheduled job and the out put will be emaild to me using the email command :
+![editingthe crontab and addding a schedule tab](https://github.com/AhmadKais/Linux_skills/blob/main/adding%20crontab%20scheduling.png)
 
 
 
